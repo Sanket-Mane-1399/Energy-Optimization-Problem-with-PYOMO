@@ -33,4 +33,6 @@ The optimization models in this repository are solved using the following solver
 - **HiGHS (via Pyomo-Appsi interface)**  
   An open-source solver for linear programming (LP), mixed-integer programming (MIP), and quadratic programming (QP), integrated through Pyomo's Appsi plugin.  
 
-Both solvers can be selected within the notebooks, depending on availability and licensing.  
+Both solvers can be selected within the notebooks, depending on availability and licensing.
+
+*Note: This work was completed as part of assignments and workshops at the **TU Berlin, ENSYS Department**.*
