@@ -16,3 +16,9 @@ The notebooks explore different bidding zone setups and illustrate how optimizat
 3. **Two Bidding Zone with Transmission.ipynb**  
    Extends the model to two interconnected bidding zones with transmission constraints.  
    Explores how cross-border capacity and transmission limits affect energy prices and flows.
+
+## Learning Objectives
+
+- Understand how to formulate energy market problems in Pyomo.  
+- Learn how market clearing prices are determined in single and multi-zone systems.  
+- Explore the impact of transmission limits and varying demand periods.  
